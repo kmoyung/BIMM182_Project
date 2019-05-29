@@ -36,4 +36,4 @@ for i in range(len(subset)):
 d = {'ID':ids, 'Name':names, 'Sequence':seqs}
 output = pd.DataFrame(data = d)
 
-output.to_csv(r'C:/Users/Kevin/Desktop/BIMM182_Project/Sequences.csv', header = ["ID", "Name", "Sequence"], index = False)
+output.to_csv(r'C:/Users/Kevin/Desktop/BIMM182_Project/Sequences.csv', header = ["ID", "Name", "Sequence"], index = False, line_terminator = ',\n')

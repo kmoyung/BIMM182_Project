@@ -5,8 +5,8 @@ import pandas as pd
 file = r'C:/Users/Kevin/Desktop/BIMM182_Project/Sequences.csv'
 input = pd.read_csv(file)
 
-# print(input[2][2])
-# 
+print(input[2][2])
+#
 # test_seq = "MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGTRDRSDQHIQLQLSAESVGEVYIKSTETGQYLAMDTSGLLYGSQTPSEECLFLERLEENHYNTYTSKKHAEKNWFVGLKKNGSCKRGPRTHYGQKAILFLPLPV"
 # analysed_seq = ProteinAnalysis(test_seq)
 #
