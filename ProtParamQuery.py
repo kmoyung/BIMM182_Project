@@ -14,7 +14,7 @@ for i in range(len(input)):
         stable = "Unstable"
     else:
         stable = "Stable"
-    entry = stable + ', ' + str(analysed_seq.instability_index())
+    entry = stable + ';' + str(analysed_seq.instability_index())
     instabilities.append(entry)
 
 results = {"Name":input.iloc[:, 0], "ProtParam":instabilities}
