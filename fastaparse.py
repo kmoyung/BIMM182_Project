@@ -5,7 +5,7 @@ Fastaparse.py parses the entire Acinobacter baumanni organism and selects
 100 proteins (from index 2000 - 2099)
 
 Input: FASTA File of 3500 sequences (proteins)
-Output: 100 IDs, their names, and the corresponding sequences
+Output: 100 IDs, their names, and the corresponding sequences as a CSV 
 """
 
 from Bio import SeqIO
