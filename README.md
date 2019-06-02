@@ -19,4 +19,4 @@
 * UniProt
 * Pfam
 * Prosite
-* etc.
+* ProtParam
