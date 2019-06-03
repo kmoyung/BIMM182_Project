@@ -1,3 +1,5 @@
+# Kevin Moyung, Nha Do
+
 from Bio import ExPASy
 from Bio.ExPASy import ScanProsite
 from pandas import DataFrame, read_csv
