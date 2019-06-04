@@ -1,14 +1,14 @@
 ID,BLAST,Pfam,Prosite,ProtParam,Comments
 ABO10538,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;N-glycosylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Amidation site,Unstable;41.47285318559566,
-ABO10541,,,Casein kinase II phosphorylation site;N-myristoylation site;Protein kinase C phosphorylation site,Stable;36.13220272904483,
+ABO10541,,,Casein kinase II phosphorylation site;N-myristoylation site;Protein kinase C phosphorylation site,Stable;36.13220272904483,Membrane
 ABO10542,,,N-myristoylation site;FKBP-type peptidyl-prolyl cis-trans isomerase domain profile;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;N-glycosylation site,Stable;30.460649350649348,
 ABO10543,,,N-myristoylation site;FKBP-type peptidyl-prolyl cis-trans isomerase domain profile;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;N-glycosylation site;Amidation site,Unstable;41.35875,
-ABO10789,,,Casein kinase II phosphorylation site;N-myristoylation site;Protein kinase C phosphorylation site,Stable;37.263606557377045,
+ABO10789,,,Casein kinase II phosphorylation site;N-myristoylation site;Protein kinase C phosphorylation site,Stable;37.263606557377045,Membrane
 ABO10790,,,ATP/GTP-binding site motif A (P-loop);Dephospho-CoA kinase (DPCK) domain profile;N-myristoylation site;N-glycosylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site,Unstable;43.86818181818183,
 ABO10791,,,Protein kinase C phosphorylation site;Casein kinase II phosphorylation site;N-myristoylation site;N-glycosylation site,Stable;32.001048951048965,
 ABO10793,,,ATP/GTP-binding site motif A (P-loop);N-myristoylation site;N-glycosylation site;Casein kinase II phosphorylation site;Leucine zipper pattern;Protein kinase C phosphorylation site;Bacterial type II secretion system protein E signature,Unstable;43.06280701754397,
-ABO10800,,,Casein kinase II phosphorylation site;Cell attachment sequence;N-myristoylation site;Protein kinase C phosphorylation site,Stable;31.65599999999998,
-ABO10803,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Leucine zipper pattern;Protein kinase C phosphorylation site,Stable;32.57714436248694,
+ABO10800,,,Casein kinase II phosphorylation site;Cell attachment sequence;N-myristoylation site;Protein kinase C phosphorylation site,Stable;31.65599999999998,Efflux Pump
+ABO10803,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Leucine zipper pattern;Protein kinase C phosphorylation site,Stable;32.57714436248694,Efflux Pump
 ABO10804,,,ATP/GTP-binding site motif A (P-loop);N-myristoylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;N-glycosylation site,Unstable;48.62632608695653,
 ABO10806,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Microbodies C-terminal targeting signal;Protein kinase C phosphorylation site;Amidation site,Stable;36.306653696498046,
 ABO10544,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Tyrosine kinase phosphorylation site 2;Protein kinase C phosphorylation site,Unstable;40.49436813186822,
