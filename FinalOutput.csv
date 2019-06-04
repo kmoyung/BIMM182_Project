@@ -10,7 +10,7 @@ ABO10793,,,ATP/GTP-binding site motif A (P-loop);N-myristoylation site;N-glycosy
 ABO10800,,,Casein kinase II phosphorylation site;Cell attachment sequence;N-myristoylation site;Protein kinase C phosphorylation site,Stable;31.65599999999998,Efflux Pump
 ABO10803,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Leucine zipper pattern;Protein kinase C phosphorylation site,Stable;32.57714436248694,Efflux Pump
 ABO10804,,,ATP/GTP-binding site motif A (P-loop);N-myristoylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;N-glycosylation site,Unstable;48.62632608695653,
-ABO10806,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Microbodies C-terminal targeting signal;Protein kinase C phosphorylation site;Amidation site,Stable;36.306653696498046,
+ABO10806,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Microbodies C-terminal targeting signal;Protein kinase C phosphorylation site;Amidation site,Stable;36.306653696498046,Hydrolase
 ABO10544,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Tyrosine kinase phosphorylation site 2;Protein kinase C phosphorylation site,Unstable;40.49436813186822,
 ABO10545,,,Protein kinase C phosphorylation site,Unstable;53.33309859154931,
 ABO10547,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Amidation site,Stable;23.075174013921117,
@@ -19,7 +19,7 @@ ABO10550,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent p
 ABO10551,,,N-myristoylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Phosphopantetheine attachment site;N-glycosylation site,Stable;32.840711111111105,
 ABO10552,,,Casein kinase II phosphorylation site;N-myristoylation site;N-glycosylation site;Protein kinase C phosphorylation site,Stable;28.782978723404245,
 ABO10553,,,Casein kinase II phosphorylation site;N-glycosylation site;N-myristoylation site;Protein kinase C phosphorylation site,Stable;35.75248062015503,
-ABS89907,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Tyrosine kinase phosphorylation site 2;Protein kinase C phosphorylation site;Amidation site,Stable;34.97272727272726,
+ABS89907,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Tyrosine kinase phosphorylation site 2;Protein kinase C phosphorylation site;Amidation site,Stable;34.97272727272726,Glycosyltransferase
 ABS89908,,,N-myristoylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Phenylalanine-rich region profile;N-glycosylation site;Amidation site,Stable;34.571242774566464,
 ABO10554,,,N-myristoylation site;Tyrosine kinase phosphorylation site 1;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;N-glycosylation site,Unstable;44.63840116279069,
 ABO10555,,,N-myristoylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;N-glycosylation site;Amidation site,Unstable;51.45563636363635,
@@ -28,7 +28,7 @@ ABO10557,,,Casein kinase II phosphorylation site;N-glycosylation site;N-myristoy
 ABO10559,,,N-myristoylation site;Phosphoglucose isomerase signature 1;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Phosphoglucose isomerase signature 2;N-glycosylation site;Glucose-6-phosphate isomerase family profile,Stable;33.457571942446044,
 ABO10822,,,Casein kinase II phosphorylation site;N-glycosylation site;Protein kinase C phosphorylation site,Unstable;46.16481389578165,
 ABO10824,,,Casein kinase II phosphorylation site;dnaJ domain profile;N-myristoylation site;Protein kinase C phosphorylation site,Stable;36.56827044025157,
-ABO10825,,,N-myristoylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Leucine zipper pattern,Stable;18.113300492610833,
+ABO10825,,,N-myristoylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Leucine zipper pattern,Stable;18.113300492610833,Efflux Pump
 ABO10828,,,ATP/GTP-binding site motif A (P-loop);N-myristoylation site;Tyrosine kinase phosphorylation site 1;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Superfamilies 1 and 2 helicase ATP-binding type-1 domain profile;N-glycosylation site;Superfamilies 1 and 2 helicase C-terminal domain profile,Stable;37.43788409703517,
 ABO10830,,,Prokaryotic N-terminal methylation site;N-myristoylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site,Unstable;41.79430051813473,
 ABO10832,,,N-myristoylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;tRNA-binding domain profile,Stable;38.943839285714276,
@@ -79,7 +79,7 @@ ABO10616,,,Casein kinase II phosphorylation site;N-myristoylation site;Protein k
 ABO10617,,,Histidine-rich region profile;Casein kinase II phosphorylation site;Protein kinase C phosphorylation site;Microbodies C-terminal targeting signal;N-glycosylation site;Amidation site,Unstable;43.33771428571426,
 ABO10619,,,Casein kinase II phosphorylation site;N-myristoylation site;Tyrosine kinase phosphorylation site 1,Unstable;41.92666666666666,
 ABO10622,,,Casein kinase II phosphorylation site;SPOR domain profile;N-myristoylation site;Protein kinase C phosphorylation site,Unstable;47.56639423076923,
-ABO10625,,,Protein kinase C phosphorylation site;N-myristoylation site;N-glycosylation site,Stable;35.010552763819085,
+ABO10625,,,Protein kinase C phosphorylation site;N-myristoylation site;N-glycosylation site,Stable;35.010552763819085,Efflux Pump
 ABO10626,,,N-myristoylation site;N-glycosylation site;cAMP- and cGMP-dependent protein kinase phosphorylation site;Leucine-rich region profile;Protein kinase C phosphorylation site,Stable;31.133955223880598,
 ABO10628,,,Casein kinase II phosphorylation site;N-glycosylation site;Protein kinase C phosphorylation site,Stable;37.69068322981366,
 ABO10629,,,Casein kinase II phosphorylation site;N-myristoylation site;N-glycosylation site;Protein kinase C phosphorylation site,Stable;37.27078651685393,

@@ -28,6 +28,6 @@ for i in range(len(input)):
 
 
 res = {"Name":input.iloc[:, 0], "BLAST":results}
-output = pd.DataFrame(data = results)
+output = pd.DataFrame(data = res)
 
 output.to_csv(r'C:/Users/Kevin/Desktop/BIMM182_Project/BLAST.csv', header = ["ID", "BLAST"], index = False, line_terminator = ',\n')
